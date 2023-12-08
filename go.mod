@@ -4,7 +4,6 @@ go 1.21
 
 require (
 	github.com/stretchr/testify v1.7.0
-	github.com/jay-bulk/wasm-go v1.0.4
 )
 
 require (
